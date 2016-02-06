@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <GL/glut.h>//VC6.0中头文件为#include <glut.h>
 #include <math.h>
-const float n = 0.0005;//画点间隔
+const float n = 0.0005;//确定画点间隔
 //初始化节点
 const GLfloat X_pos[4] = { 0.0f,0.5f,0.4f,0.0f };
 const GLfloat Y_pos[4] = { 0.5f,0.75f,0.2f,-0.5f };
